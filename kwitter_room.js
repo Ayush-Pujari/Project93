@@ -38,6 +38,6 @@ getData();
  function redirectToRoomName(names){
        console.log(names);
        localStorage.setItem("Room_name",names);
-       window.location="kwitter_page.html";
+       window.location="Kwitter_page.html";
  }
 
